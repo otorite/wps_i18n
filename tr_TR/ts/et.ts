@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"/>
+        <translation type="Başka bir kullanıcı değişiklik yaptı. Ne yapmak istersiniz?"/>
     </message>
     <message>
         <source>Cancel</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="unfinished"/>
+        <translation type="Yapılan değişiklikleri iptal edip son versiyon üzerinden devam etmek için İptal'e basın"/>
     </message>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="unfinished"/>
+        <translation type="Yapılan değişiklikleri farklı adla kaydetmek ve yeni dosya ile devam etmek için Farklı Kayıt Et tuşuna basın"/>
     </message>
 </context>
 <context>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>You can choose from four different ways to connect to your chosen data source.</source>
-        <translation type="unfinished"/>
+        <translation type="Veri kaynağına bağlanmak için 4 farklı bağlantı şekli seçebilirsiniz"/>
     </message>
 </context>
 <context>
