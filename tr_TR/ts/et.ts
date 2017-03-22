@@ -927,7 +927,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation type="unfinished"/>
+        <translation type="Değer %1 ile %2 arasında olmalı"/>
     </message>
 </context>
 <context>
@@ -991,7 +991,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Please close this dialog to continue fetching data</source>
-        <translation type="unfinished"/>
+        <translation type="Veriyi yüklemeden önce bilgi penceresini kapatın lütfen"/>
     </message>
 </context>
 <context>
@@ -1292,7 +1292,7 @@ condition is true:</source>
     </message>
     <message>
         <source>This format name already exists.</source>
-        <translation type="unfinished"/>
+        <translation type="Bu şablon ismi zaten mevcut"/>
     </message>
 </context>
 <context>
@@ -1317,7 +1317,7 @@ condition is true:</source>
     </message>
     <message>
         <source> Use dates or stock names as labels.</source>
-        <translation type="unfinished"/>
+        <translation type="Etiket olarak tarih veya unfinished"/>
     </message>
     <message>
         <source>high price, low price, closing price. </source>
@@ -1325,7 +1325,7 @@ condition is true:</source>
     </message>
     <message>
         <source>opening price, high price, low price, closing price. </source>
-        <translation type="unfinished"/>
+        <translation type="açılış fiyatı, yüksek fiyat, düşük fiyat, kapanış fiyatı"/>
     </message>
     <message>
         <source>volume traded, high price, low price, closing price. </source>
@@ -1337,11 +1337,11 @@ condition is true:</source>
     </message>
     <message>
         <source>To create a combination chart, select at least two series of data.</source>
-        <translation type="unfinished"/>
+        <translation type="Kombinasyon tablosu oluşturmak için en az 2 veri bölgesi seçilmeli"/>
     </message>
     <message>
         <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
-        <translation type="unfinished"/>
+        <translation type="Bazı tablolar birbiri ile uyumlu olmayabilir, farklı bir tablo tipi seçin"/>
     </message>
 </context>
 <context>
@@ -1516,7 +1516,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Scatter with Straight Lines</source>
-        <translation type="unfinished"/>
+        <translation type="Düz hatlarla dağılım"/>
     </message>
 </context>
 <context>
@@ -1527,7 +1527,7 @@ condition is true:</source>
 
 Use it when:
 • The order of categories is not important.</source>
-        <translation type="unfinished"/>
+        <translation type="Kategorilerin düzeni önemli değildir"/>
     </message>
     <message>
         <source>Use this chart type to:
@@ -2031,7 +2031,7 @@ Use it when:
     </message>
     <message>
         <source>Cannot add duplicate source reference.</source>
-        <translation type="unfinished"/>
+        <translation type="Yinelenen kaynak referansı eklenemez"/>
     </message>
     <message>
         <source>Count</source>
@@ -2132,7 +2132,7 @@ Use it when:
     </message>
     <message>
         <source>Do you want to convert the table to a normal range?</source>
-        <translation type="unfinished"/>
+        <translation type="Tablonun normal aralığa dönüştürülmesini istiyor musunuz?"/>
     </message>
     <message>
         <source>This will permanently remove the query definition from the select sheet and convert the table to a normal range.Continue?</source>
@@ -2144,7 +2144,7 @@ Use it when:
     <name>KxCreatePivotTableDlg</name>
     <message>
         <source>Data fields have been retrieved.</source>
-        <translation type="unfinished"/>
+        <translation type="Veri alanları alındı"/>
     </message>
     <message>
         <source>Modify PivotTable</source>
@@ -2152,11 +2152,11 @@ Use it when:
     </message>
     <message>
         <source>No data fields have been retrieved.</source>
-        <translation type="unfinished"/>
+        <translation type="Hiç veri alanı alınmadı"/>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
-        <translation type="unfinished"/>
+        <translation type="Geçerli çalışma kitabı korumada olduğu için Özet Tablo, yeni bir sayfa üzerinde oluşturulamaz. Lütfen mevcut bir sayfayı seçin veya bu çalışma kitabının korumasını kaldırın"/>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -2164,19 +2164,19 @@ Use it when:
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
-        <translation type="unfinished"/>
+        <translation type="PivotTable yerleştirmek için seçtiğiniz konum geçerli değil. Lütfen bunun geçerli bir referans aralığı olduğundan ve gizli bir sayfada bulunmadığından emin olun"/>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="unfinished"/>
+        <translation type="Seçilen bağlantı türü Özet Tablo oluşturmak için kullanılamaz"/>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation type="unfinished"/>
+        <translation type="Bu verilerle Özet Tablo oluşturamazsınız. Lütfen referans aralığının geçerli olup olmadığını ve belirtilen çalışma sayfasının mevcut olduğunu kontrol edin"/>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation type="unfinished"/>
+        <translation type="Özet Tabloyu, bu verilerle değiştiremezsiniz. Lütfen referans aralığının geçerli olup olmadığını ve belirtilen çalışma sayfasının mevcut olduğunu kontrol edin"/>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
@@ -2194,7 +2194,7 @@ Use it when:
     </message>
     <message>
         <source>My table has headers</source>
-        <translation type="unfinished"/>
+        <translation type="Tablomun başlığı mevcut"/>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -2232,7 +2232,7 @@ Use it when:
     </message>
     <message>
         <source>The name is invalid or the formula contains an error.</source>
-        <translation type="unfinished"/>
+        <translation type="Ad geçersiz veya formül bir hata içeriyor"/>
     </message>
     <message>
         <source>Workbook</source>
@@ -2240,22 +2240,22 @@ Use it when:
     </message>
     <message>
         <source>An error occurred when delete.</source>
-        <translation type="unfinished"/>
+        <translation type="Silinirken bir hata oluştu"/>
     </message>
 </context>
 <context>
     <name>KxDisplayResultDlg</name>
     <message>
         <source>Solver paused, current solution values displayed on worksheet.</source>
-        <translation type="unfinished"/>
+        <translation type="Çözücü duraklatıldı, geçerli çözüm değerleri çalışma sayfasında görüntülendi"/>
     </message>
     <message>
         <source>Stop generating report will cause unexpected value on reports.</source>
-        <translation type="unfinished"/>
+        <translation type="Rapor oluşturmayı durdurmak raporlarda beklenmeyen değere neden olur"/>
     </message>
     <message>
         <source>The maximum iteration limit was reached; continue anyway?</source>
-        <translation type="unfinished"/>
+        <translation type="Maksimum tekrar limitine ulaşıldı; devam edilsin mi?"/>
     </message>
     <message>
         <source>The maximum number of integer solutions was reached; continue anyway?</source>
